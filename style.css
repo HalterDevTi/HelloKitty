@@ -43,3 +43,26 @@ ul a{
     border-radius: 20px;
     
 }
+h1{
+    font-family: 'Pacifico', cursive;
+}
+.container p{
+    color: pink;
+    font-size: 18px;
+}
+.hello{
+    width: 220px; height: 220px;
+    position: absolute; margin-top: -410px; margin-left: 20px;
+    border-radius: 20px;
+    opacity: 0.3;
+}
+.txt{
+    position: absolute;
+    margin-top: -430px; margin-left: 32px;
+     color: black;
+}
+.txt-i{
+    font-family: 'Shadows Into Light', cursive;
+    font-weight: 700; font-size: 24px;
+    margin: -3px;
+}
